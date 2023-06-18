@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\bin\Debug\net7.0\MutilThreadWithBackgroundWorker.exe
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\bin\Debug\net7.0\MutilThreadWithBackgroundWorker.deps.json
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\bin\Debug\net7.0\MutilThreadWithBackgroundWorker.runtimeconfig.json
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\bin\Debug\net7.0\MutilThreadWithBackgroundWorker.dll
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\bin\Debug\net7.0\MutilThreadWithBackgroundWorker.pdb
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.AssemblyInfo.cs
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.dll
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\refint\MutilThreadWithBackgroundWorker.dll
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.pdb
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\MutilThreadWithBackgroundWorker.genruntimeconfig.cache
+C:\Users\admin\source\repos\SingleThread\MutilThreadWithBackgroundWorker\obj\Debug\net7.0\ref\MutilThreadWithBackgroundWorker.dll

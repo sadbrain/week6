@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\SingleThread\MutilThread\bin\Debug\net7.0\MutilThreadWithThreadPool.exe
+C:\Users\admin\source\repos\SingleThread\MutilThread\bin\Debug\net7.0\MutilThreadWithThreadPool.deps.json
+C:\Users\admin\source\repos\SingleThread\MutilThread\bin\Debug\net7.0\MutilThreadWithThreadPool.runtimeconfig.json
+C:\Users\admin\source\repos\SingleThread\MutilThread\bin\Debug\net7.0\MutilThreadWithThreadPool.dll
+C:\Users\admin\source\repos\SingleThread\MutilThread\bin\Debug\net7.0\MutilThreadWithThreadPool.pdb
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.AssemblyInfo.cs
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.dll
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\refint\MutilThreadWithThreadPool.dll
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.pdb
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\MutilThreadWithThreadPool.genruntimeconfig.cache
+C:\Users\admin\source\repos\SingleThread\MutilThread\obj\Debug\net7.0\ref\MutilThreadWithThreadPool.dll
